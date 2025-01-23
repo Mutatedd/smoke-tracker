@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Mutatedd/Mutatedd/output/snake.svg" alt="Snake animation" />
+
+###
+
 # Smoke Tracker App
 A simple app to track smoking habits (weed and nicotine).
 
@@ -14,3 +18,7 @@ A simple app to track smoking habits (weed and nicotine).
 ## Tech Stack
 - HTML, CSS, JavaScript
 - Hosted on GitHub Pages
+
+<img src="https://raw.githubusercontent.com/Mutatedd/Mutatedd/output/snake.svg" alt="Snake animation" />
+
+###
